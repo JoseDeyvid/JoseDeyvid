@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o José Deyvid</h1>
-<h3 align="center">Um desenvolvedor de 23 anos apaixonado pela profissão com experiência no desenvolvimento Full Stack e Mobile utilizando ferramentas como: React, Node.js, Swift, React Native e muito mais...</h3>
+<h3 align="center">Um desenvolvedor de 24 anos apaixonado pela profissão com experiência no desenvolvimento Full Stack e Mobile utilizando ferramentas como: React, Node.js, React Native, Swift e muito mais...</h3>
 
 - Atualmente estou me aprofundando em **Next.JS, React-Native, TypeScript, Tailwind e outras ferramentas de front-end**
 
