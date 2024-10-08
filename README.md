@@ -1,13 +1,9 @@
 <h1 align="center">Olá, eu sou o José Deyvid</h1>
 <h3 align="center">Um desenvolvedor de 24 anos apaixonado pela profissão com experiência no desenvolvimento Full Stack e Mobile utilizando ferramentas como: React, Node.js, React Native, Swift e muito mais...</h3>
 
-- Atualmente estou me aprofundando em **Next.JS, React-Native, TypeScript, Tailwind e outras ferramentas de front-end**
+- Atualmente estou me aprofundando em **Next.JS, TypeScript, Ferramentas de CSS(SASS, Tailwind, Bootstrap...), GraphQL, Kubernetes, RESTful APIs e outras ferramentas de front e back-end**
 
-- Pergunte me sobre **React, Swift(iOS), C#, JavaScript, Html e Css**
-
-- Você pode me enviar uma mensagem através do email **j_deyvid@live.com**
-
-- Conheça mais sobre minhas habilidades e experiências [https://www.linkedin.com/in/jose-deyvid-da-conceicao-pacifico/](https://www.linkedin.com/in/jose-deyvid-da-conceicao-pacifico/)
+- Pergunte me sobre **React, React Native, NodeJS, TypeScript, APIs, Swift(iOS), C#, JavaScript, Html e Css**
   
 </p>
 
