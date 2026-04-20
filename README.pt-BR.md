@@ -81,4 +81,6 @@ Desenvolvedor de 26 anos apaixonado pela área, com experiência em desenvolvime
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 </p>
 
+---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josedeyvid&show_icons=true&locale=en&layout=compact" alt="josedeyvid" /></p>
