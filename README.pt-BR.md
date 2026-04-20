@@ -1,12 +1,12 @@
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> | 🇧🇷 Português
+</p>
+
 <h1 align="center">Olá, eu sou José Deyvid</h1>
 
 <h3 align="center">
 Desenvolvedor de 26 anos apaixonado pela área, com experiência em desenvolvimento Full Stack e Mobile utilizando tecnologias como: React, Node.js, React Native, Swift e mais...
 </h3>
-
-<p align="center">
-  <a href="./README.md">🇺🇸 English</a> | 🇧🇷 Português
-</p>
 
 ---
 
@@ -80,3 +80,5 @@ Desenvolvedor de 26 anos apaixonado pela área, com experiência em desenvolvime
 <p align="center">
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josedeyvid&show_icons=true&locale=en&layout=compact" alt="josedeyvid" /></p>
